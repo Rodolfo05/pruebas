@@ -1,1 +1,4 @@
+Se dejan ambos mensajes y se resuelve conflicto:
 Hola desde MASTER
+
+Hola desde CONFLICT BRANCH!
